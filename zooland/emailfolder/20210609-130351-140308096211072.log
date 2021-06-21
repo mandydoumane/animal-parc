@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: lesmeilleurs@live.fr
+Date: Wed, 09 Jun 2021 13:03:51 -0000
+Message-ID: <162324383113.25474.15480400435700893063@ordi1>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/userauth/reset/MTI/anz8af-0fc5c1f0d25ff950062391c2732acdc7/
+
+Your username, in case you’ve forgotten: lesmeilleurs
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------

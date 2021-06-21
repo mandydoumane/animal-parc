@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: mamma@coco.fr
+Date: Wed, 09 Jun 2021 12:18:51 -0000
+Message-ID: <162324113195.23087.12754311584880492575@ordi1>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/reset/MTE/anz67f-f055fdb7b03a76522889d2367f1bfe39/
+
+Your username, in case you’ve forgotten: coco
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------

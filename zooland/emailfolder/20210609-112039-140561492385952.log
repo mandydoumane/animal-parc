@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: mandy.doumane@gmail.com
+Date: Wed, 09 Jun 2021 11:20:39 -0000
+Message-ID: <162323763963.19142.14953403339976381197@ordi1>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/userauth/reset/OA/anz3if-87a928ddfa79b8ce0d45f270dad7bc88/
+
+Your username, in case you’ve forgotten: mandy
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------

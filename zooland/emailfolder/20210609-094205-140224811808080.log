@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: pipo@gmail.com
+Date: Wed, 09 Jun 2021 09:42:05 -0000
+Message-ID: <162323172544.17336.4174232694249100865@ordi1>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/userauth/reset/MTA/anyyy5-6c4b9f13e7d1e0869b87f5dac6011dbe/
+
+Your username, in case you’ve forgotten: pipo
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------
